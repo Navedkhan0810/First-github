@@ -1,5 +1,6 @@
 # First-github
 This is my first Git Repository.
 <br>
-Author - Naved Khan
+Author - Naved Khan 
+<br>
 Author - Z
